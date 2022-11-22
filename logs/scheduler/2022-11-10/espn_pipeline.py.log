@@ -1,0 +1,147 @@
+[2022-11-10T00:02:09.584+0000] {processor.py:156} INFO - Started process (PID=12511) to work on /opt/airflow/dags/espn_pipeline.py
+[2022-11-10T00:02:09.589+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/espn_pipeline.py for tasks to queue
+[2022-11-10T00:02:09.592+0000] {logging_mixin.py:117} INFO - [2022-11-10T00:02:09.592+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/espn_pipeline.py
+[2022-11-10T00:02:09.862+0000] {processor.py:768} INFO - DAG(s) dict_keys(['espn_pipeline']) retrieved from /opt/airflow/dags/espn_pipeline.py
+[2022-11-10T00:02:10.066+0000] {logging_mixin.py:117} INFO - [2022-11-10T00:02:10.066+0000] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-11-10T00:02:10.087+0000] {logging_mixin.py:117} INFO - [2022-11-10T00:02:10.087+0000] {dag.py:3328} INFO - Setting next_dagrun for espn_pipeline to 2022-08-07T00:00:00+00:00, run_after=2022-08-14T00:00:00+00:00
+[2022-11-10T00:02:10.108+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/espn_pipeline.py took 0.547 seconds
+[2022-11-10T01:24:30.567+0000] {processor.py:156} INFO - Started process (PID=12566) to work on /opt/airflow/dags/espn_pipeline.py
+[2022-11-10T01:24:30.568+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/espn_pipeline.py for tasks to queue
+[2022-11-10T01:24:30.569+0000] {logging_mixin.py:117} INFO - [2022-11-10T01:24:30.569+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/espn_pipeline.py
+[2022-11-10T01:24:30.780+0000] {processor.py:768} INFO - DAG(s) dict_keys(['espn_pipeline']) retrieved from /opt/airflow/dags/espn_pipeline.py
+[2022-11-10T01:24:30.831+0000] {logging_mixin.py:117} INFO - [2022-11-10T01:24:30.831+0000] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-11-10T01:24:30.856+0000] {logging_mixin.py:117} INFO - [2022-11-10T01:24:30.856+0000] {dag.py:3328} INFO - Setting next_dagrun for espn_pipeline to 2022-08-07T00:00:00+00:00, run_after=2022-08-14T00:00:00+00:00
+[2022-11-10T01:24:30.873+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/espn_pipeline.py took 0.310 seconds
+[2022-11-10T02:29:01.575+0000] {processor.py:156} INFO - Started process (PID=12630) to work on /opt/airflow/dags/espn_pipeline.py
+[2022-11-10T02:29:01.585+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/espn_pipeline.py for tasks to queue
+[2022-11-10T02:29:01.588+0000] {logging_mixin.py:117} INFO - [2022-11-10T02:29:01.587+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/espn_pipeline.py
+[2022-11-10T02:29:01.997+0000] {processor.py:768} INFO - DAG(s) dict_keys(['espn_pipeline']) retrieved from /opt/airflow/dags/espn_pipeline.py
+[2022-11-10T02:29:02.166+0000] {logging_mixin.py:117} INFO - [2022-11-10T02:29:02.166+0000] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-11-10T02:29:02.221+0000] {logging_mixin.py:117} INFO - [2022-11-10T02:29:02.221+0000] {dag.py:3328} INFO - Setting next_dagrun for espn_pipeline to 2022-08-07T00:00:00+00:00, run_after=2022-08-14T00:00:00+00:00
+[2022-11-10T02:29:02.278+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/espn_pipeline.py took 0.745 seconds
+[2022-11-10T03:35:43.748+0000] {processor.py:156} INFO - Started process (PID=12693) to work on /opt/airflow/dags/espn_pipeline.py
+[2022-11-10T03:35:43.751+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/espn_pipeline.py for tasks to queue
+[2022-11-10T03:35:43.764+0000] {logging_mixin.py:117} INFO - [2022-11-10T03:35:43.764+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/espn_pipeline.py
+[2022-11-10T03:35:44.026+0000] {processor.py:768} INFO - DAG(s) dict_keys(['espn_pipeline']) retrieved from /opt/airflow/dags/espn_pipeline.py
+[2022-11-10T03:35:44.295+0000] {logging_mixin.py:117} INFO - [2022-11-10T03:35:44.295+0000] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-11-10T03:35:44.365+0000] {logging_mixin.py:117} INFO - [2022-11-10T03:35:44.364+0000] {dag.py:3328} INFO - Setting next_dagrun for espn_pipeline to 2022-08-07T00:00:00+00:00, run_after=2022-08-14T00:00:00+00:00
+[2022-11-10T03:35:44.397+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/espn_pipeline.py took 0.659 seconds
+[2022-11-10T04:59:20.648+0000] {processor.py:156} INFO - Started process (PID=12748) to work on /opt/airflow/dags/espn_pipeline.py
+[2022-11-10T04:59:20.650+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/espn_pipeline.py for tasks to queue
+[2022-11-10T04:59:20.651+0000] {logging_mixin.py:117} INFO - [2022-11-10T04:59:20.651+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/espn_pipeline.py
+[2022-11-10T04:59:20.757+0000] {processor.py:768} INFO - DAG(s) dict_keys(['espn_pipeline']) retrieved from /opt/airflow/dags/espn_pipeline.py
+[2022-11-10T04:59:20.791+0000] {logging_mixin.py:117} INFO - [2022-11-10T04:59:20.791+0000] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-11-10T04:59:20.815+0000] {logging_mixin.py:117} INFO - [2022-11-10T04:59:20.815+0000] {dag.py:3328} INFO - Setting next_dagrun for espn_pipeline to 2022-08-07T00:00:00+00:00, run_after=2022-08-14T00:00:00+00:00
+[2022-11-10T04:59:20.839+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/espn_pipeline.py took 0.197 seconds
+[2022-11-10T06:22:25.185+0000] {processor.py:156} INFO - Started process (PID=12812) to work on /opt/airflow/dags/espn_pipeline.py
+[2022-11-10T06:22:25.242+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/espn_pipeline.py for tasks to queue
+[2022-11-10T06:22:25.247+0000] {logging_mixin.py:117} INFO - [2022-11-10T06:22:25.246+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/espn_pipeline.py
+[2022-11-10T06:22:25.552+0000] {processor.py:768} INFO - DAG(s) dict_keys(['espn_pipeline']) retrieved from /opt/airflow/dags/espn_pipeline.py
+[2022-11-10T06:22:25.704+0000] {logging_mixin.py:117} INFO - [2022-11-10T06:22:25.704+0000] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-11-10T06:22:25.794+0000] {logging_mixin.py:117} INFO - [2022-11-10T06:22:25.794+0000] {dag.py:3328} INFO - Setting next_dagrun for espn_pipeline to 2022-08-07T00:00:00+00:00, run_after=2022-08-14T00:00:00+00:00
+[2022-11-10T06:22:25.841+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/espn_pipeline.py took 0.670 seconds
+[2022-11-10T08:00:45.405+0000] {processor.py:156} INFO - Started process (PID=12866) to work on /opt/airflow/dags/espn_pipeline.py
+[2022-11-10T08:00:45.416+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/espn_pipeline.py for tasks to queue
+[2022-11-10T08:00:45.428+0000] {logging_mixin.py:117} INFO - [2022-11-10T08:00:45.428+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/espn_pipeline.py
+[2022-11-10T08:00:45.851+0000] {processor.py:768} INFO - DAG(s) dict_keys(['espn_pipeline']) retrieved from /opt/airflow/dags/espn_pipeline.py
+[2022-11-10T08:00:46.023+0000] {logging_mixin.py:117} INFO - [2022-11-10T08:00:46.023+0000] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-11-10T08:00:46.113+0000] {logging_mixin.py:117} INFO - [2022-11-10T08:00:46.113+0000] {dag.py:3328} INFO - Setting next_dagrun for espn_pipeline to 2022-08-07T00:00:00+00:00, run_after=2022-08-14T00:00:00+00:00
+[2022-11-10T08:00:46.172+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/espn_pipeline.py took 0.802 seconds
+[2022-11-10T09:22:57.309+0000] {processor.py:156} INFO - Started process (PID=12920) to work on /opt/airflow/dags/espn_pipeline.py
+[2022-11-10T09:22:57.316+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/espn_pipeline.py for tasks to queue
+[2022-11-10T09:22:57.338+0000] {logging_mixin.py:117} INFO - [2022-11-10T09:22:57.337+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/espn_pipeline.py
+[2022-11-10T09:22:57.851+0000] {processor.py:768} INFO - DAG(s) dict_keys(['espn_pipeline']) retrieved from /opt/airflow/dags/espn_pipeline.py
+[2022-11-10T09:22:58.229+0000] {logging_mixin.py:117} INFO - [2022-11-10T09:22:58.228+0000] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-11-10T09:22:58.286+0000] {logging_mixin.py:117} INFO - [2022-11-10T09:22:58.286+0000] {dag.py:3328} INFO - Setting next_dagrun for espn_pipeline to 2022-08-07T00:00:00+00:00, run_after=2022-08-14T00:00:00+00:00
+[2022-11-10T09:22:58.437+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/espn_pipeline.py took 1.133 seconds
+[2022-11-10T10:48:36.083+0000] {processor.py:156} INFO - Started process (PID=12974) to work on /opt/airflow/dags/espn_pipeline.py
+[2022-11-10T10:48:36.092+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/espn_pipeline.py for tasks to queue
+[2022-11-10T10:48:36.094+0000] {logging_mixin.py:117} INFO - [2022-11-10T10:48:36.094+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/espn_pipeline.py
+[2022-11-10T10:48:36.335+0000] {processor.py:768} INFO - DAG(s) dict_keys(['espn_pipeline']) retrieved from /opt/airflow/dags/espn_pipeline.py
+[2022-11-10T10:48:36.809+0000] {logging_mixin.py:117} INFO - [2022-11-10T10:48:36.809+0000] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-11-10T10:48:36.976+0000] {logging_mixin.py:117} INFO - [2022-11-10T10:48:36.975+0000] {dag.py:3328} INFO - Setting next_dagrun for espn_pipeline to 2022-08-07T00:00:00+00:00, run_after=2022-08-14T00:00:00+00:00
+[2022-11-10T10:48:37.066+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/espn_pipeline.py took 0.998 seconds
+[2022-11-10T12:10:49.959+0000] {processor.py:156} INFO - Started process (PID=13036) to work on /opt/airflow/dags/espn_pipeline.py
+[2022-11-10T12:10:49.992+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/espn_pipeline.py for tasks to queue
+[2022-11-10T12:10:50.013+0000] {logging_mixin.py:117} INFO - [2022-11-10T12:10:50.013+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/espn_pipeline.py
+[2022-11-10T12:10:50.740+0000] {processor.py:768} INFO - DAG(s) dict_keys(['espn_pipeline']) retrieved from /opt/airflow/dags/espn_pipeline.py
+[2022-11-10T12:10:51.442+0000] {logging_mixin.py:117} INFO - [2022-11-10T12:10:51.442+0000] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-11-10T12:10:51.554+0000] {logging_mixin.py:117} INFO - [2022-11-10T12:10:51.554+0000] {dag.py:3328} INFO - Setting next_dagrun for espn_pipeline to 2022-08-07T00:00:00+00:00, run_after=2022-08-14T00:00:00+00:00
+[2022-11-10T12:10:51.592+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/espn_pipeline.py took 1.645 seconds
+[2022-11-10T13:33:22.831+0000] {processor.py:156} INFO - Started process (PID=13084) to work on /opt/airflow/dags/espn_pipeline.py
+[2022-11-10T13:33:22.835+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/espn_pipeline.py for tasks to queue
+[2022-11-10T13:33:22.836+0000] {logging_mixin.py:117} INFO - [2022-11-10T13:33:22.836+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/espn_pipeline.py
+[2022-11-10T13:33:23.017+0000] {processor.py:768} INFO - DAG(s) dict_keys(['espn_pipeline']) retrieved from /opt/airflow/dags/espn_pipeline.py
+[2022-11-10T13:33:23.130+0000] {logging_mixin.py:117} INFO - [2022-11-10T13:33:23.130+0000] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-11-10T13:33:23.177+0000] {logging_mixin.py:117} INFO - [2022-11-10T13:33:23.177+0000] {dag.py:3328} INFO - Setting next_dagrun for espn_pipeline to 2022-08-07T00:00:00+00:00, run_after=2022-08-14T00:00:00+00:00
+[2022-11-10T13:33:23.210+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/espn_pipeline.py took 0.382 seconds
+[2022-11-10T14:37:13.111+0000] {processor.py:156} INFO - Started process (PID=13146) to work on /opt/airflow/dags/espn_pipeline.py
+[2022-11-10T14:37:13.114+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/espn_pipeline.py for tasks to queue
+[2022-11-10T14:37:13.116+0000] {logging_mixin.py:117} INFO - [2022-11-10T14:37:13.116+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/espn_pipeline.py
+[2022-11-10T14:37:13.316+0000] {processor.py:768} INFO - DAG(s) dict_keys(['espn_pipeline']) retrieved from /opt/airflow/dags/espn_pipeline.py
+[2022-11-10T14:37:13.385+0000] {logging_mixin.py:117} INFO - [2022-11-10T14:37:13.385+0000] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-11-10T14:37:13.411+0000] {logging_mixin.py:117} INFO - [2022-11-10T14:37:13.411+0000] {dag.py:3328} INFO - Setting next_dagrun for espn_pipeline to 2022-08-07T00:00:00+00:00, run_after=2022-08-14T00:00:00+00:00
+[2022-11-10T14:37:13.426+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/espn_pipeline.py took 0.317 seconds
+[2022-11-10T14:45:37.121+0000] {processor.py:156} INFO - Started process (PID=13203) to work on /opt/airflow/dags/espn_pipeline.py
+[2022-11-10T14:45:37.130+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/espn_pipeline.py for tasks to queue
+[2022-11-10T14:45:37.134+0000] {logging_mixin.py:117} INFO - [2022-11-10T14:45:37.133+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/espn_pipeline.py
+[2022-11-10T14:45:37.468+0000] {processor.py:768} INFO - DAG(s) dict_keys(['espn_pipeline']) retrieved from /opt/airflow/dags/espn_pipeline.py
+[2022-11-10T14:45:37.719+0000] {logging_mixin.py:117} INFO - [2022-11-10T14:45:37.719+0000] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-11-10T14:45:37.811+0000] {logging_mixin.py:117} INFO - [2022-11-10T14:45:37.811+0000] {dag.py:3328} INFO - Setting next_dagrun for espn_pipeline to 2022-08-07T00:00:00+00:00, run_after=2022-08-14T00:00:00+00:00
+[2022-11-10T14:45:37.889+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/espn_pipeline.py took 0.783 seconds
+[2022-11-10T15:04:36.748+0000] {processor.py:156} INFO - Started process (PID=13259) to work on /opt/airflow/dags/espn_pipeline.py
+[2022-11-10T15:04:36.755+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/espn_pipeline.py for tasks to queue
+[2022-11-10T15:04:36.763+0000] {logging_mixin.py:117} INFO - [2022-11-10T15:04:36.763+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/espn_pipeline.py
+[2022-11-10T15:04:37.130+0000] {processor.py:768} INFO - DAG(s) dict_keys(['espn_pipeline']) retrieved from /opt/airflow/dags/espn_pipeline.py
+[2022-11-10T15:04:37.495+0000] {logging_mixin.py:117} INFO - [2022-11-10T15:04:37.494+0000] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-11-10T15:04:37.643+0000] {logging_mixin.py:117} INFO - [2022-11-10T15:04:37.643+0000] {dag.py:3328} INFO - Setting next_dagrun for espn_pipeline to 2022-08-07T00:00:00+00:00, run_after=2022-08-14T00:00:00+00:00
+[2022-11-10T15:04:37.732+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/espn_pipeline.py took 1.039 seconds
+[2022-11-10T16:10:32.641+0000] {processor.py:156} INFO - Started process (PID=13322) to work on /opt/airflow/dags/espn_pipeline.py
+[2022-11-10T16:10:32.660+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/espn_pipeline.py for tasks to queue
+[2022-11-10T16:10:32.664+0000] {logging_mixin.py:117} INFO - [2022-11-10T16:10:32.664+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/espn_pipeline.py
+[2022-11-10T16:10:32.989+0000] {processor.py:768} INFO - DAG(s) dict_keys(['espn_pipeline']) retrieved from /opt/airflow/dags/espn_pipeline.py
+[2022-11-10T16:10:33.498+0000] {logging_mixin.py:117} INFO - [2022-11-10T16:10:33.497+0000] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-11-10T16:10:33.569+0000] {logging_mixin.py:117} INFO - [2022-11-10T16:10:33.568+0000] {dag.py:3328} INFO - Setting next_dagrun for espn_pipeline to 2022-08-07T00:00:00+00:00, run_after=2022-08-14T00:00:00+00:00
+[2022-11-10T16:10:33.612+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/espn_pipeline.py took 0.996 seconds
+[2022-11-10T17:34:35.035+0000] {processor.py:156} INFO - Started process (PID=13376) to work on /opt/airflow/dags/espn_pipeline.py
+[2022-11-10T17:34:35.041+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/espn_pipeline.py for tasks to queue
+[2022-11-10T17:34:35.044+0000] {logging_mixin.py:117} INFO - [2022-11-10T17:34:35.044+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/espn_pipeline.py
+[2022-11-10T17:34:35.265+0000] {processor.py:768} INFO - DAG(s) dict_keys(['espn_pipeline']) retrieved from /opt/airflow/dags/espn_pipeline.py
+[2022-11-10T17:34:35.354+0000] {logging_mixin.py:117} INFO - [2022-11-10T17:34:35.353+0000] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-11-10T17:34:35.433+0000] {logging_mixin.py:117} INFO - [2022-11-10T17:34:35.432+0000] {dag.py:3328} INFO - Setting next_dagrun for espn_pipeline to 2022-08-07T00:00:00+00:00, run_after=2022-08-14T00:00:00+00:00
+[2022-11-10T17:34:35.460+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/espn_pipeline.py took 0.446 seconds
+[2022-11-10T18:57:07.169+0000] {processor.py:156} INFO - Started process (PID=13431) to work on /opt/airflow/dags/espn_pipeline.py
+[2022-11-10T18:57:07.173+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/espn_pipeline.py for tasks to queue
+[2022-11-10T18:57:07.176+0000] {logging_mixin.py:117} INFO - [2022-11-10T18:57:07.176+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/espn_pipeline.py
+[2022-11-10T18:57:07.327+0000] {processor.py:768} INFO - DAG(s) dict_keys(['espn_pipeline']) retrieved from /opt/airflow/dags/espn_pipeline.py
+[2022-11-10T18:57:07.444+0000] {logging_mixin.py:117} INFO - [2022-11-10T18:57:07.444+0000] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-11-10T18:57:07.526+0000] {logging_mixin.py:117} INFO - [2022-11-10T18:57:07.526+0000] {dag.py:3328} INFO - Setting next_dagrun for espn_pipeline to 2022-08-07T00:00:00+00:00, run_after=2022-08-14T00:00:00+00:00
+[2022-11-10T18:57:07.618+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/espn_pipeline.py took 0.455 seconds
+[2022-11-10T19:05:29.580+0000] {processor.py:156} INFO - Started process (PID=13496) to work on /opt/airflow/dags/espn_pipeline.py
+[2022-11-10T19:05:29.590+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/espn_pipeline.py for tasks to queue
+[2022-11-10T19:05:29.592+0000] {logging_mixin.py:117} INFO - [2022-11-10T19:05:29.592+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/espn_pipeline.py
+[2022-11-10T19:05:29.871+0000] {processor.py:768} INFO - DAG(s) dict_keys(['espn_pipeline']) retrieved from /opt/airflow/dags/espn_pipeline.py
+[2022-11-10T19:05:29.935+0000] {logging_mixin.py:117} INFO - [2022-11-10T19:05:29.935+0000] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-11-10T19:05:29.978+0000] {logging_mixin.py:117} INFO - [2022-11-10T19:05:29.978+0000] {dag.py:3328} INFO - Setting next_dagrun for espn_pipeline to 2022-08-07T00:00:00+00:00, run_after=2022-08-14T00:00:00+00:00
+[2022-11-10T19:05:30.081+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/espn_pipeline.py took 0.512 seconds
+[2022-11-10T20:13:35.842+0000] {processor.py:156} INFO - Started process (PID=13560) to work on /opt/airflow/dags/espn_pipeline.py
+[2022-11-10T20:13:35.847+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/espn_pipeline.py for tasks to queue
+[2022-11-10T20:13:35.851+0000] {logging_mixin.py:117} INFO - [2022-11-10T20:13:35.851+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/espn_pipeline.py
+[2022-11-10T20:13:36.232+0000] {processor.py:768} INFO - DAG(s) dict_keys(['espn_pipeline']) retrieved from /opt/airflow/dags/espn_pipeline.py
+[2022-11-10T20:13:36.366+0000] {logging_mixin.py:117} INFO - [2022-11-10T20:13:36.366+0000] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-11-10T20:13:36.440+0000] {logging_mixin.py:117} INFO - [2022-11-10T20:13:36.440+0000] {dag.py:3328} INFO - Setting next_dagrun for espn_pipeline to 2022-08-07T00:00:00+00:00, run_after=2022-08-14T00:00:00+00:00
+[2022-11-10T20:13:36.482+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/espn_pipeline.py took 0.654 seconds
+[2022-11-10T21:37:09.219+0000] {processor.py:156} INFO - Started process (PID=13614) to work on /opt/airflow/dags/espn_pipeline.py
+[2022-11-10T21:37:09.244+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/espn_pipeline.py for tasks to queue
+[2022-11-10T21:37:09.265+0000] {logging_mixin.py:117} INFO - [2022-11-10T21:37:09.264+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/espn_pipeline.py
+[2022-11-10T21:37:09.731+0000] {processor.py:768} INFO - DAG(s) dict_keys(['espn_pipeline']) retrieved from /opt/airflow/dags/espn_pipeline.py
+[2022-11-10T21:37:10.385+0000] {logging_mixin.py:117} INFO - [2022-11-10T21:37:10.384+0000] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-11-10T21:37:10.512+0000] {logging_mixin.py:117} INFO - [2022-11-10T21:37:10.512+0000] {dag.py:3328} INFO - Setting next_dagrun for espn_pipeline to 2022-08-07T00:00:00+00:00, run_after=2022-08-14T00:00:00+00:00
+[2022-11-10T21:37:10.588+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/espn_pipeline.py took 1.392 seconds
+[2022-11-10T23:18:12.988+0000] {processor.py:156} INFO - Started process (PID=13679) to work on /opt/airflow/dags/espn_pipeline.py
+[2022-11-10T23:18:13.003+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/espn_pipeline.py for tasks to queue
+[2022-11-10T23:18:13.015+0000] {logging_mixin.py:117} INFO - [2022-11-10T23:18:13.012+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/espn_pipeline.py
+[2022-11-10T23:18:13.299+0000] {processor.py:768} INFO - DAG(s) dict_keys(['espn_pipeline']) retrieved from /opt/airflow/dags/espn_pipeline.py
+[2022-11-10T23:18:13.368+0000] {logging_mixin.py:117} INFO - [2022-11-10T23:18:13.367+0000] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-11-10T23:18:13.415+0000] {logging_mixin.py:117} INFO - [2022-11-10T23:18:13.415+0000] {dag.py:3328} INFO - Setting next_dagrun for espn_pipeline to 2022-08-07T00:00:00+00:00, run_after=2022-08-14T00:00:00+00:00
+[2022-11-10T23:18:13.460+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/espn_pipeline.py took 0.486 seconds
