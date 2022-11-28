@@ -9,6 +9,7 @@ Created on Tue Sep 13 10:27:23 2022
 from espn_api.football import League
 from player_stats_map import PLAYER_STATS_MAP
 import pandas as pd
+from secret.py as secret import *
 
 
 import collections
@@ -25,7 +26,7 @@ def flatten(d, parent_key='', sep='_'):
 
 # ESPN data ingestion script
 
-league = League(league_id=51550020, year=2022, espn_s2='AEBjvzsTypcysFEyFBWvP%2B6wTV7v%2B6plfa9KHVBKgaQmzgyZInqssAz0kg0r7sMkEJOWzvaEpY6AWqUrNgspQJ9sUlfsWxuTjCgzfKCQnFtCV3SkNpFr6hU9IotsymGYeaA7hueTpOmG7ZLKfvwDt3d57w33X7X14Vp53WZgNksILvOYRo3Vroaua1XbtQqJHCEtFMaxWkSdoAAVUIO%2Bkzlmvft18rmIkPngb3IsPGMH5wmEOUN6GRV0ZAJlojm5xfEWvjoFI%2BAZVCjUKfmVyjSGIi0GlrfSURt%2Fw%2Fypl97bZw%3D%3D', swid='{3FE268A0-44AA-4050-A268-A044AAE050FA}')
+league = League(league_id=secret.league_id, year=2022, espn_s2= secret.espn_s2, swid=secret.swid)
 
 
 # League dim
